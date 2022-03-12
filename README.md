@@ -38,5 +38,5 @@
   <br/>
    <a href="https://github.com/wanuja97"><img alt="Wanuja97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wanuja97&custom_title=Wanuja's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-<summary><b>⚡ Organizations that I have contributed to</b></summary>
-[<img src= "https://avatars.githubusercontent.com/u/97980932?s=200&v=4" height= "50" width= "50">](https://github.com/teamscorpionsdev)
+<!-- <summary><b>⚡ Organizations that I have contributed to</b></summary>
+[<img src= "https://avatars.githubusercontent.com/u/97980932?s=200&v=4" height= "50" width= "50">](https://github.com/teamscorpionsdev) -->
