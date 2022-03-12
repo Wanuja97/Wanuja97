@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wanuja Ranasinghe</h1>
 <h3 align="center">IT Undergraduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wanuja97&label=Profile%20views&color=0e75b6&style=flat" alt="wanuja97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wanuja97&label=Profile%20views&color=0e75b6&style=flat" alt="wanuja97" /> </p>
 
 - 🔭 I’m currently working on **Quizup**
 
