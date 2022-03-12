@@ -49,9 +49,9 @@ Here are some ideas to get you started:
             <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
         </ul>
     </div> -->
-    <div align=center>
+<!--     <div align=center>
         <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=Wanuja97&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Wanuja97&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" /> -->
 <!--         <br>
         
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanuja97&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
