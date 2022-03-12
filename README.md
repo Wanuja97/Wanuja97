@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wanuja97&show_icons=true&theme=tokyonight&line_height=27&locale=en" alt="wanuja97" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wanuja97&" alt="wanuja97" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wanuja97&theme=tokyonight&line_height=27" alt="wanuja97" /></p>
