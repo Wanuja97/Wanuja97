@@ -28,5 +28,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wanuja97&show_icons=true&locale&theme=tokyonight&line_height=27=en&layout=compact" alt="wanuja97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wanuja97&show_icons=true&theme=tokyonight&line_height=27&locale=en" alt="wanuja97" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wanuja97&theme=tokyonight&line_height=27" alt="wanuja97" /></p>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/wanuja97"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wanuja97&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
