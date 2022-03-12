@@ -49,7 +49,7 @@ Here are some ideas to get you started:
             <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
         </ul>
     </div> -->
-    <div align=center>
+<!--     <div align=center>
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=Wanuja18&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wanuja18&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
-    </div>
+    </div> -->
     
 </div>
 
