@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+
 <h1 align="center">Hi 👋, I'm Wanuja Ranasinghe</h1>
 <h3 align="center">IT Undergraduate</h3>
 
