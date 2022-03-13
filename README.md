@@ -15,7 +15,7 @@
 - 💬 Ask me about **Angular,Laravel**
 
 - 📫 How to reach me **wanuja18@gmail.com**
-
+<br/>
 <h2 align="left"><b>✨Connect with me</b></h2>
 <p align="left">
 <a href="https://linkedin.com/in/wanujaranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wanujaranasinghe" height="30" width="40" /></a>
