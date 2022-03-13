@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wanuja97&label=Profile%20views&color=0e75b6&style=flat" alt="wanuja97" /> </p>
 <br/>
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
+
 - 🔭 I’m currently working on **Quizup**
 
 - 🌱 I’m currently learning **MERN Stack**
