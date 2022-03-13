@@ -17,15 +17,6 @@
 
 - 📫 How to reach me **wanuja18@gmail.com**
 <br/>
-<h2 align="left"><b📍 Connect with me</b></h2>
-<p align="left">
-<a href="https://linkedin.com/in/wanujaranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wanujaranasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/wanujaranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wanujaranasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/w_a_n_u_j_a__97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w_a_n_u_j_a__97" height="30" width="40" /></a>
-<a href="https://medium.com/@wanuja18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wanuja18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wanuja18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wanuja18" height="30" width="40" /></a>
-</p>
-<br/>
 
 <h2 align="left"><b>🚀 Languages and Tools</b></h2>
 
@@ -43,6 +34,15 @@
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
   <br/>
    <a href="https://github.com/wanuja97"><img alt="Wanuja97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wanuja97&custom_title=Wanuja's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  
+ <br/>
+<h2 align="left"><b>📍 Connect with me</b></h2>
+<p align="left">
+<a href="https://linkedin.com/in/wanujaranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wanujaranasinghe" height="30" width="40" /></a>
+<a href="https://fb.com/wanujaranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wanujaranasinghe" height="30" width="40" /></a>
+<a href="https://instagram.com/w_a_n_u_j_a__97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w_a_n_u_j_a__97" height="30" width="40" /></a>
+<a href="https://medium.com/@wanuja18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wanuja18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/wanuja18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wanuja18" height="30" width="40" /></a>
+</p>
 <!-- <summary><b>⚡ Organizations that I have contributed to</b></summary>
 [<img src= "https://avatars.githubusercontent.com/u/97980932?s=200&v=4" height= "50" width= "50">](https://github.com/teamscorpionsdev) -->
