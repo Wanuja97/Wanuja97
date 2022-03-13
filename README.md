@@ -35,7 +35,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wanuja97&theme=tokyonight&line_height=27" alt="wanuja97" /></p>
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+## ⚡ Recent GitHub Activity
   <br/>
    <a href="https://github.com/wanuja97"><img alt="Wanuja97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wanuja97&custom_title=Wanuja's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
