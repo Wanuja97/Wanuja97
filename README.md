@@ -32,7 +32,7 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=wanuja97&show_icons=true&theme=tokyonight&line_height=27&locale=en" alt="wanuja97" /></p>
 <br/>
 <p align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wanuja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Wanuja97&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wanuja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Wanuja97&theme=tokyonight&stroke=0000&background=060A0CD0"/>
 </p>   
 <br/>
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
