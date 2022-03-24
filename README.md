@@ -45,6 +45,6 @@
 <a href="https://instagram.com/w_a_n_u_j_a__97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w_a_n_u_j_a__97" height="30" width="40" /></a>
 <a href="https://medium.com/@wanuja18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wanuja18" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wanuja18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wanuja18" height="30" width="40" /></a>
-</p>
+</p> 
 <!-- <summary><b>⚡ Organizations that I have contributed to</b></summary>
 [<img src= "https://avatars.githubusercontent.com/u/97980932?s=200&v=4" height= "50" width= "50">](https://github.com/teamscorpionsdev) -->
