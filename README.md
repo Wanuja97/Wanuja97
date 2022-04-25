@@ -27,7 +27,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wanuja97&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&sideNums=FF00CB&currStreakLabel=00FFF2&currStreakNum=00FFF2&ring=AE00FF&fire=FF09FB&background=000637&sideLabels=EA01FF)](https://git.io/streak-stats) -->
 <!--  <p align="center"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanuja97&langs_count=10&count_private=true&layout=compact&theme=dracula&bg_color=0D1117" /></p> -->
  <p align="center">
-<a href="https://github.com/VihanPamudya/github-readme-stats"><img alt="Wanuja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanuja97&langs_count=12&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Wanuja97/github-readme-stats"><img alt="Wanuja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanuja97&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
   <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
