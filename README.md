@@ -16,6 +16,10 @@
 - 💬 Ask me about **Angular,Laravel**
 
 - 📫 How to reach me **wanuja18@gmail.com**
+
+- 🏆 My Portfolio **www.wanujaranasinghe.me/**
+
+- 📚 My Blog **www.programmingster.com/**
 <br/>
 
 <h2 align="left"><b>🚀 Languages and Tools</b></h2>
