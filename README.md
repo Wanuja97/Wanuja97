@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wanuja Ranasinghe</h1>
 <h3 align="center">~IT Undergraduate at University of Moratuwa</h3>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wanuja97&label=Profile%20views&color=0e75b6&style=flat" alt="wanuja97" /> </p>
 <br/>
