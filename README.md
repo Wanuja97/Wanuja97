@@ -19,7 +19,7 @@
 - 🏆 My Portfolio **www.wanujaranasinghe.me**
 
 - 📚 My Blog **www.programmingster.com**
-<br/>
+
 <h2 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wanuja18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wanuja18" /></a></p><br/><br/>
 <h2 align="left"><b>🚀 Languages and Tools</b></h2>
