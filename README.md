@@ -6,7 +6,7 @@
 <br/>
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
-- 🔭 I’m currently working on **Quizup**
+- 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **MERN Stack**
 
