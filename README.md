@@ -18,7 +18,7 @@
 
 - 🏆 My Portfolio **www.wanujaranasinghe.me**
 
-- 📚 My Blog **<a href="www.programmingster.com">Programmingster</a>** ||  **<a href="https://wanuja18.medium.com/">Medium</a>**
+- 📚 My Blog **<a href="https://www.programmingster.com">Programmingster</a>** ||  **<a href="https://wanuja18.medium.com/">Medium</a>**
 
 <h2 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wanuja18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wanuja18" /></a></p><br/><br/>
