@@ -45,8 +45,13 @@
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wanuja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Wanuja97&theme=dracula&stroke=0000&background=060A0CD0"/>
 </p>   
 <br/>
-<h2>✍🏻 Medium Blogs </h2>
-[![Wanuja Ranasinghe's Medium](https://github-readme-medium.vercel.app/?username=wanuja18&limit=5)](https://medium.com/@wanuja18)
+### ✍🏻 Medium Blogs
+
+[![Wanuja Ranasinghe Medium](https://github-readme-medium.vercel.app/?username=wanuja18&limit=3)](https://medium.com/@wanuja18)
+
+[➡️ more blogs...](https://wanuja18.medium.com/)
+
+---
 <br/> <br/>
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
   <br/>
