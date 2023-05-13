@@ -6,7 +6,7 @@
 <br/>
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
-- 🔭 I’m currently working on **my portfolio**
+<!-- - 🔭 I’m currently working on **my portfolio** -->
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -45,6 +45,9 @@
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wanuja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Wanuja97&theme=dracula&stroke=0000&background=060A0CD0"/>
 </p>   
 <br/>
+<h2>✍🏻 Medium Blogs </h2>
+[![Wanuja Ranasinghe's Medium](https://github-readme-medium.vercel.app/?username=wanuja18&limit=5)](https://medium.com/@wanuja18)
+<br/> <br/>
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
   <br/>
    <a href="https://github.com/wanuja97"><img alt="Wanuja97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wanuja97&custom_title=Wanuja's%20Contribution%20Graph&theme=dracula" /></a> 
