@@ -47,7 +47,7 @@
 <br/>
 <h2>✍🏻 Medium Blogs </h2>
 
-[![Wanuja Ranasinghe Medium](https://github-readme-medium.vercel.app/?username=wanuja18&limit=5)](https://medium.com/@wanuja18)
+[![Wanuja Ranasinghe Medium](https://github-readme-medium.vercel.app/?username=wanuja18&limit=3)](https://medium.com/@wanuja18)
 
 [➡️ more blogs...](https://wanuja18.medium.com/)
 
