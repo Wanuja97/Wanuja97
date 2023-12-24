@@ -18,7 +18,7 @@
 
 - 🏆 My Portfolio **www.wanujaranasinghe.me**
 
-- 📚 My Blog **<a href="https://www.programmingster.com">Programmingster</a>** ||  **<a href="https://wanuja18.medium.com/">Medium</a>**
+- 📚 My Blog **<a href="https://wanuja18.medium.com/">Medium</a>**
 
 <h2 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wanuja18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wanuja18" /></a></p><br/><br/>
@@ -45,6 +45,7 @@
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wanuja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Wanuja97&theme=dracula&stroke=0000&background=060A0CD0"/>
 </p>   
 <br/>-->
+<!--
 <h2>✍🏻 Medium Blogs </h2>
 
 [![Wanuja Ranasinghe Medium](https://github-readme-medium.vercel.app/?username=wanuja18&limit=3)](https://medium.com/@wanuja18)
@@ -52,12 +53,11 @@
 [➡️ more blogs...](https://wanuja18.medium.com/)
 
 ---
-<br/> <br/>
 <h2 align="left"><b>⚡ Recent GitHub Activities</b></h2>
   <br/>
    <a href="https://github.com/wanuja97"><img alt="Wanuja97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wanuja97&custom_title=Wanuja's%20Contribution%20Graph&theme=dracula" /></a> 
   
- <br/>
+ <br/> -->
 <h2 align="left"><b>📍 Connect with me</b></h2>
 <p align="left">
 <a href="https://linkedin.com/in/wanujaranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wanujaranasinghe" height="30" width="40" /></a>
