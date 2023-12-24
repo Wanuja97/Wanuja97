@@ -36,7 +36,7 @@
   <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 <br/> -->
-<h2 align="left"><b>📊 My Github Stats</b></h2>
+<!--<h2 align="left"><b>📊 My Github Stats</b></h2>
  
 <br/>
 <p align="center">&nbsp;<img alt="Wanuja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wanuja97&show_icons=true&count_private=true&theme=dracula&bg_color=0D1117" /></p>
@@ -44,7 +44,7 @@
 <p align="center">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wanuja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Wanuja97&theme=dracula&stroke=0000&background=060A0CD0"/>
 </p>   
-<br/>
+<br/>-->
 <h2>✍🏻 Medium Blogs </h2>
 
 [![Wanuja Ranasinghe Medium](https://github-readme-medium.vercel.app/?username=wanuja18&limit=3)](https://medium.com/@wanuja18)
