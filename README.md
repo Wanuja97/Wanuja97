@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **wanuja18@gmail.com**
 
-- 🏆 My Portfolio **www.wanujaranasinghe.me**
+<!-- - 🏆 My Portfolio **www.wanujaranasinghe.me** -->
 
 - 📚 My Blog **<a href="https://wanuja18.medium.com/">Medium</a>**
 
